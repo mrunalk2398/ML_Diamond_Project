@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: Diamond_price_prediction
+Version: 0.0.1
+Author: Mrunal Kulkarni
+Author-email: klkmrunal@gmail.com
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: seaborn
+Requires-Dist: flask
